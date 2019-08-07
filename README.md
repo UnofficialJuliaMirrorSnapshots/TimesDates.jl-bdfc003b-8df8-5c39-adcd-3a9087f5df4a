@@ -10,9 +10,7 @@
 
 [![Travis Build Status](https://travis-ci.org/JeffreySarnoff/TimesDates.jl.svg?branch=master)](https://travis-ci.org/JeffreySarnoff/TimesDates.jl)&nbsp;&nbsp;&nbsp;[![Docs Latest](https://img.shields.io/badge/docs-latest-blue.svg)](http://jeffreysarnoff.github.io/TimesDates.jl/latest/)
 
-  
 ----
-
 
 ## Setup
 
